@@ -40,7 +40,9 @@ int main() {
 ```
 
 #### For compiling all mandatory functions:
-```make```
+```
+make
+```
 
 #### Cleaning all binary (.o) and executable files (.a):
 
