@@ -39,6 +39,18 @@ int main() {
 }
 ```
 
+#### For compiling all mandatory functions:
+```make```
+
+#### Cleaning all binary (.o) and executable files (.a):
+
+```
+make clean
+make fclean
+```
+#### Or just
+``` make fclean ```
+
 ## Limitations
 
 + Mini Printf does not support all features of the standard printf function.
