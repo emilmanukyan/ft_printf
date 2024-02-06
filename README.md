@@ -51,7 +51,9 @@ make clean
 make fclean
 ```
 #### Or just
-``` make fclean ```
+```
+make fclean
+```
 
 ## Limitations
 
