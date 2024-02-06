@@ -44,7 +44,7 @@ int main() {
 make
 ```
 
-#### Cleaning all binary (.o) and executable files (.a):
+#### Cleaning all object (.o) and executable files:
 
 ```
 make clean
