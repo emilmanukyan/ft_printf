@@ -50,7 +50,7 @@ make
 make clean
 make fclean
 ```
-#### Or just
+#### Or just:
 ```
 make fclean
 ```
