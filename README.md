@@ -24,8 +24,6 @@ int ft_printf(const char *format, ...);
 ```
 ### Example Usage
 
-#include <stdio.h>
-
 ```
 int main() {
     ft_printf("This is a string: %s\n", "Hello, world!");
