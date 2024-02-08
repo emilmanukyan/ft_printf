@@ -57,7 +57,7 @@ make fclean
 
 ## Limitations
 
-+ Mini Printf does not support all features of the standard printf function.
++ ft_printf does not support all features of the standard printf function.
 + It does not support precision or width specifiers.
 + Floating point numbers (`%f`, `%e`, `%g`) are not supported.
 
